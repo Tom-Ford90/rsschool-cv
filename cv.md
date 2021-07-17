@@ -31,4 +31,11 @@ if (user == 'Админ' || user == 'Модератор') {
 } else {
     alert('Я вас не знаю');
 }
-```  
+```
+## Work Experience
+At this moment I m learning JS in RS School from EPAM Systems. Unfortunately, I haven`t got work experience in front-end development. Despite this i enjoy to learn JS, HTML/CSS.
+## Education
+RS School from EPAM Systems
+## Language
+Russian Native
+Level of English: Upper-intermediate  
