@@ -1,1 +1,0 @@
-https://Tom-Ford90.github.io/rsschool-cv/cv
