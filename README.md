@@ -1,1 +1,1 @@
-https://Tom-Ford90.github.io/rsschool-cv/cv
+https://tom-ford90.github.io/rsschool-cv/
